@@ -9,6 +9,7 @@ loadSprite("blue", "backgrounds/blue.png");
 
 // load assets
 loadSprite("bean", "sprites/bean.png")
+loadSprite("bean", "sprites/bean.png")
 
 // add a character to screen
 let background = add([
